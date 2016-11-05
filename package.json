@@ -1,0 +1,30 @@
+{
+  "name": "koa_tool",
+  "version": "1.0.0",
+  "description": "koa_tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cupyong/koa_tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cupyong/koa_tool/issues"
+  },
+  "homepage": "https://github.com/cupyong/koa_tool#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa": "^1.2.4",
+    "koa-bodyparser": "^2.2.0",
+    "koa-compose": "^2.5.1",
+    "koa-cors": "0.0.16",
+    "koa-router": "^5.4.0",
+    "lodash": "^4.16.6",
+    "mongoose": "^4.6.6"
+  }
+}
